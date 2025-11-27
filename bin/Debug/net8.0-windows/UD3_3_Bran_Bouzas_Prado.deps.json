@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UD3_3_Bran_Bouzas_Prado/1.0.0": {
+        "runtime": {
+          "UD3_3_Bran_Bouzas_Prado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UD3_3_Bran_Bouzas_Prado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
