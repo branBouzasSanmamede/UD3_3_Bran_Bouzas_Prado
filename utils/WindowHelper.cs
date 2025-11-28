@@ -9,7 +9,7 @@ namespace UD3_3_Bran_Bouzas_Prado.utils
             window.ContentRendered += (_, __) =>
             {
                 var screen = SystemParameters.WorkArea;
-                window.Left = screen.Right - window.ActualWidth - margen;
+                window.Left = (screen.Width / 2) + margen;
                 window.Top = (screen.Height - window.ActualHeight) / 2;
             };
         }
@@ -18,7 +18,7 @@ namespace UD3_3_Bran_Bouzas_Prado.utils
             window.ContentRendered += (_, __) =>
             {
                 var screen = SystemParameters.WorkArea;
-                window.Left = margen;
+                window.Left = (screen.Width / 2) - window.ActualWidth - margen;
                 window.Top = (screen.Height - window.ActualHeight) / 2;
             };
         }

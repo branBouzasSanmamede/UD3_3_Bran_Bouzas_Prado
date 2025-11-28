@@ -25,3 +25,4 @@ C:\Users\Bran\Desktop\Bran\Interfaces\UD3_3_Bran_Bouzas_Prado\obj\Debug\net8.0-w
 C:\Users\Bran\Desktop\Bran\Interfaces\UD3_3_Bran_Bouzas_Prado\obj\Debug\net8.0-windows\windows\EditarAlarmaWindow.baml
 C:\Users\Bran\Desktop\Bran\Interfaces\UD3_3_Bran_Bouzas_Prado\obj\Debug\net8.0-windows\windows\AlarmasWindow.g.cs
 C:\Users\Bran\Desktop\Bran\Interfaces\UD3_3_Bran_Bouzas_Prado\obj\Debug\net8.0-windows\windows\EditarAlarmaWindow.g.cs
+C:\Users\Bran\Desktop\Bran\Interfaces\UD3_3_Bran_Bouzas_Prado\obj\Debug\net8.0-windows\UD3_3_Bran_Bouzas_Prado.sourcelink.json
